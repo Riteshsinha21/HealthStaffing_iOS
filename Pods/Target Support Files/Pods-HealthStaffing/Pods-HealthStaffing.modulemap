@@ -1,0 +1,6 @@
+framework module Pods_HealthStaffing {
+  umbrella header "Pods-HealthStaffing-umbrella.h"
+
+  export *
+  module * { export * }
+}

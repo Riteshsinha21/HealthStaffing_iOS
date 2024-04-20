@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (5.2.2)
+  - CountryPickerView (3.3.0)
+  - DropDown (2.3.13)
+  - IQKeyboardManager (6.5.12)
+  - Malert (4.2)
+  - MBProgressHUD (1.2.0)
+  - SPAlert (4.2.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+  - SwiftyJSON (5.0.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2.1)
+  - CountryPickerView
+  - DropDown
+  - IQKeyboardManager
+  - Malert
+  - MBProgressHUD
+  - SPAlert
+  - SVProgressHUD
+  - SwiftMessages
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CountryPickerView
+    - DropDown
+    - IQKeyboardManager
+    - Malert
+    - MBProgressHUD
+    - SPAlert
+    - SVProgressHUD
+    - SwiftMessages
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  CountryPickerView: 6322ada32a80b0cd721b0267282a5c24f406f263
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  IQKeyboardManager: b1fd66ccf7a79095bdcc4a2735231586f744216e
+  Malert: 4327c2aab8aab459824ebf647195cfb6b5cd06a4
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SPAlert: 735da1f16a887e294719217572ce1f936d8c8782
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: cbca7ead9e6be46c03c68146a7eb95e4d21203f0
+
+COCOAPODS: 1.11.3
